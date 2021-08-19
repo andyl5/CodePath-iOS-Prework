@@ -32,15 +32,13 @@ Here's a walkthrough of implemented user stories:
 
 ![img](https://user-images.githubusercontent.com/81489476/129992547-a58e3d3a-a371-47c2-9b8e-e49401a9127f.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Andy Leon]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
