@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![ezgif com-gif-maker](https://user-images.githubusercontent.com/81489476/129992291-611a9d76-bc95-433a-ab6f-9fc68705300e.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![img](https://user-images.githubusercontent.com/81489476/129992547-a58e3d3a-a371-47c2-9b8e-e49401a9127f.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
